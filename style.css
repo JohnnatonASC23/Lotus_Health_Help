@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(68, 219, 141);
+}
+
+#heading {
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: rgb(44, 197, 174); */
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    padding: 5px;
+    background: rgb(46,222,119);
+background: linear-gradient(243deg, rgba(46,222,119,1) 0%, rgba(30,191,132,1) 33%, rgba(106,201,63,1) 63%, rgba(123,234,176,1) 75%);
+}
+
+#nav1{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(123, 234, 176);
+    padding: 5px; 
+    
+}
+
+img {
+    width: 150px;
+}
+
+.items:hover {
+    background-color: rgb(182, 191, 194);
+    opacity: 0.5;
+
+}
+
+a {
+    text-decoration: none;
+    width: 20%;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+#txt{
+    color: white;
+}
+
+div {
+    border-style: solid;
+}
+
+#img {
+    width: 50px;
+}
+
+#vid {
+    text-align: center;
+} 
+
+#vid2 {
+    text-align: center;
+}

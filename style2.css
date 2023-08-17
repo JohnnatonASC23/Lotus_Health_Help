@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    background: rgb(19,148,12);
+background: radial-gradient(circle, rgba(19,148,12,1) 30%, rgba(150,233,148,1) 88%);
+
+}
+
+body {
+    background-color: rgb(36, 192, 128);
+}
+
+p {
+    text-align: center;
+    background: rgb(19,148,12);
+background: radial-gradient(circle, rgba(19,148,12,1) 30%, rgba(150,233,148,1) 88%);
+border-style: dotted;
+}
+
+div {
+    background: rgb(19,148,12);
+background: radial-gradient(circle, rgba(19,148,12,1) 30%, rgba(150,233,148,1) 88%);
+border-style: solid;
+}
+
+h2 {
+    background: rgb(19,148,12);
+background: radial-gradient(circle, rgba(19,148,12,1) 30%, rgba(150,233,148,1) 88%);
+
+}
+
+#h {
+    border-style: dotted;
+}
+
+#k {
+    border-style: dashed;
+}
+img {
+   width: 100px;
+}

@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(123, 234, 176);
+}
+
+#logo1{
+text-align: center;
+}
+
+#title1 {
+    border-style: solid;
+    text-align: center;
+    background: linear-gradient(243deg, rgba(46,222,119,1) 0%, rgba(30,191,132,1) 33%, rgba(106,201,63,1) 63%, rgba(123,234,176,1) 75%);
+}
+
+h3 {
+    padding: 60px;
+}
+
+img {
+    width: 150px;
+}
+
+#cal{
+    background-color: rgb(123, 234, 176);
+    text-align: center;
+}
+.fitness-calculator {
+    width: 300px;
+    margin: 0 auto;
+    text-align:center;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.meal-planner {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#meal-plan {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}

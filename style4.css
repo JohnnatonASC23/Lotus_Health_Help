@@ -1,0 +1,22 @@
+img {
+    width: 150px;
+}
+body {
+    background-color: rgb(9, 218, 30);
+}
+
+div {
+    background: rgb(36, 218, 118);
+background: linear-gradient(27deg, rgba(82,222,53,1) 28%, rgba(123,232,106,1) 57%, rgba(96,198,101,1) 72%, rgba(67,177,32,1) 89%);
+}
+
+#title2 {
+    text-align: center;
+    background: rgb(9, 218, 30);
+    padding-bottom: 20px;
+    border: solid;
+}
+
+#work2 {
+   border: solid; 
+}
