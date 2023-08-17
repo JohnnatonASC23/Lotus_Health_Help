@@ -16,7 +16,7 @@ function calculateBMR() {
         document.getElementById('adjusted-bmr').textContent = 'Please enter valid values.';
     }
 }
-// meal planner
+// meal planner home made api
 
 const healthyMeals = {
     Monday: [
@@ -113,7 +113,7 @@ function generateRandomMealPlan(meals) {
 function generateMealPlan() {
     const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     const mealPlan = document.getElementById('meal-plan');
-    mealPlan.innerHTML = ''; // Clear previous content
+    mealPlan.innerHTML = '';
     
     for (const day of days) {
         const randomMeals = healthyMeals[day];
